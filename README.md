@@ -1,16 +1,38 @@
-# blinkit
+A UI clone of the Blinkit grocery delivery app built using Flutter. This project focuses purely on the front-end layout, showcasing the design, structure, and responsiveness of the original Blinkit app.
 
-A new Flutter project.
+🚀 Features:
 
-## Getting Started
+-> Clean and responsive user interface
 
-This project is a starting point for a Flutter application.
+-> Custom reusable widgets
 
-A few resources to get you started if this is your first Flutter project:
+-> Category listing, product tiles, and banner sections
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-> Flutter routing and navigation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack:
+
+| Tech            | Description                     |
+|-----------------|---------------------------------|
+| Flutter         | Cross-platform UI toolkit       |
+| Dart            | Programming language for Flutter|
+| Android Studio  | IDE for development and testing |
+
+
+📌Prerequisites
+
+-> Flutter SDK (3.x recommended)
+  
+-> Android Studio or VS Code
+  
+-> Android/iOS Emulator or Physical Device
+
+📂 Project Status:
+
+-> UI Design: ✅ Completed
+
+-> Navigation: ✅ Basic routing implemented
+
+📂 Project Structure
+
+![image](https://github.com/user-attachments/assets/61d2ea2b-474b-487f-9881-004c45c5a4c1)
